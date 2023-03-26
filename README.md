@@ -60,6 +60,12 @@ Instale as dependências do projeto executando o comando:
 npm install
 ```
 
+Instale as dependências do React-Icons:
+
+```bash
+npm install react-icons --save
+```
+
 Para visualizar a executando o comando:
 
 ```bash
