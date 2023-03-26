@@ -21,7 +21,8 @@ Este é um projeto de lista de tarefas simples construído com React utilizando 
 <!-- PREVIEW -->
 ##  Funcionalidades
 <ul>
-<li> Adicione uma nova tarefa </li>
+<li> Adicione uma nova tarefa pressionando o 'ENTER' </li>
+<li> Pressione "ESC" para apagar a palavra escrita no "input" </li>
 <li> Marque uma tarefa como concluída </li>
 <li> Exclua uma tarefa </li>
 </ul>
