@@ -25,6 +25,7 @@ Este é um projeto de lista de tarefas simples construído com React utilizando 
 <li> Pressione "ESC" para apagar a palavra escrita no "input" </li>
 <li> Marque uma tarefa como concluída </li>
 <li> Exclua uma tarefa </li>
+<li> Ao atuasizar a página as terefas permanecerão, até que sejam excluídas </li>
 </ul>
 
 ##  Tecnologias utilizadas
