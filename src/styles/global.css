@@ -1,0 +1,86 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  border-radius: 5px;
+  background-color: #f3f1e8;
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul,
+input,
+textarea {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  margin: 0;
+  padding: 0;
+  border-radius: 5px;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+input,
+select,
+textarea {
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+::placeholder {
+  color: rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  display: block;
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.main {
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+.title {
+  color: #7e71c4;
+  font-size: 64px;
+  font-weight: 100;
+  text-align: center;
+}
