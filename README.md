@@ -74,10 +74,27 @@ Para visualizar a executando o comando:
 npm start
 ```
 
+## Como contribuir
+<ul>
+<li> Crie um fork deste repositório </li>
+<li> Crie uma branch com sua funcionalidade: git checkout -b minha-funcionalidade </li>
+<li> Faça as alterações necessárias e faça o commit: git commit -m 'Minha funcionalidade' </li>
+<li> Envie suas alterações: git push origin minha-funcionalidade </li>
+<li> Crie um novo Pull Request </li>
+</ul>
+
 <!-- CONTACT -->
+## Autor
+
+<h4><i>Deborah Cristina</i></h4>
 
 ## ✉️ Contact
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deborahcristinadeoliveira/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-cristina-desenvolvedoraweb/)
 
+<!-- LICENSE -->
+
+## 📝 Licença
+Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes
+[MIT](https://choosealicense.com/licenses/mit/)
